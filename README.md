@@ -28,7 +28,7 @@ I am presently enrolled in an Informatics major program at Institut Teknologi Ba
   -->
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/3sulton">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=3sulton&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3sulton&layout=compact&langs_count=8&theme=algolia"/>
 </a>
